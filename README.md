@@ -14,12 +14,6 @@ A simple chat application powered by the Gemini-pro model from Google Generative
 
 ---
 
-## Demo
-
-![App Screenshot](path-to-screenshot.png)
-
----
-
 ## Installation
 
 ### Backend Setup
